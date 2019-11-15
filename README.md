@@ -1,4 +1,5 @@
-# TensorflowTestApp
+# TFObjectDetection
+Object Detection using Tensorflow.js and the coco-ssd model
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
 
